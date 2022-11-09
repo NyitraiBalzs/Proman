@@ -1,0 +1,12 @@
+#boards {
+    background-color: green;
+}
+
+.hide {
+    display: none;
+}
+
+#add-new-board-input{
+    display: none;
+}
+

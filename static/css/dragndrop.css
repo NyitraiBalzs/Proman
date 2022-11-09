@@ -1,0 +1,18 @@
+.card-slot:empty {
+    /*This only works if the tag is really empty and there is not even whitespace inside*/
+    border: 4px solid #cdcdcd;
+    margin: 2px;
+    border-radius: var(--border-radius);
+    background: #eee;
+}
+
+.card-slot-highlight:empty {
+    border: 4px solid red;
+}
+.mixed-slot-highlight {
+    border: 4px solid red;
+}
+
+.card {
+    margin: 14px;
+}
